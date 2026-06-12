@@ -33,7 +33,6 @@ mcqs/
 | Unit 2 | Ecosystems and Biodiversity | ✅ Completed |
 | Unit 3 | Natural Resources | ✅ Completed |
 | Unit 4 | Environmental Pollution | ✅ Completed |
-| Unit 5 | Human Population and Environment | ⏳ Coming Soon |
 
 ---
 
@@ -63,11 +62,11 @@ Each unit follows a structured format:
 
 | Unit | Number of MCQs |
 |--------|----------------|
-| Unit 1 | 75+ |
+| Unit 1 | 65+ |
 | Unit 2 | 75+ |
 | Unit 3 | 75+ |
 | Unit 4 | 75+ |
-| **Total** | **300+ MCQs** |
+| **Total** | **280+ MCQs** |
 
 ---
 
