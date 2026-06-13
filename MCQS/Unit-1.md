@@ -7,7 +7,7 @@
 
 ---
 
-## 📚 Section 1: Basic Concepts
+## 📚 Section A: Basic Concepts (1–15)
 
 ### 1. Environmental Science deals with:
 - a) Only plants
@@ -159,7 +159,7 @@
 
 ---
 
-## 🌱 Section 2: Environmental Understanding
+## 🌱 Section B: Understanding (16–35)
 
 ### 16. Sustainable development means:
 - a) Rapid use of resources
@@ -261,9 +261,17 @@
 
 ---
 
-## 🏭 Section 3: Environmental Issues & Applications
+### 26. Interdisciplinary nature means:
+- a) Single subject
+- b) Multiple subjects combined
+- c) Only science
+- d) Only theory
 
-### 26. Climate change is mainly caused by:
+**✅ Answer:** b) Multiple subjects combined
+
+---
+
+### 27. Climate change is mainly caused by:
 - a) Oxygen
 - b) Nitrogen
 - c) Greenhouse gases
@@ -273,7 +281,7 @@
 
 ---
 
-### 27. Which is a result of water pollution?
+### 28. Which is a result of water pollution?
 - a) Clean rivers
 - b) Healthy fish
 - c) Waterborne diseases
@@ -283,7 +291,7 @@
 
 ---
 
-### 28. Soil pollution reduces:
+### 29. Soil pollution reduces:
 - a) Water
 - b) Fertility
 - c) Air quality
@@ -293,7 +301,7 @@
 
 ---
 
-### 29. Which is an environmental issue?
+### 30. Which is an environmental issue?
 - a) Recycling
 - b) Afforestation
 - c) Pollution
@@ -303,7 +311,7 @@
 
 ---
 
-### 30. Environmental awareness promotes:
+### 31. Environmental awareness promotes:
 - a) Waste generation
 - b) Conservation
 - c) Pollution
@@ -313,7 +321,7 @@
 
 ---
 
-### 31. Which activity reduces pollution?
+### 32. Which activity reduces pollution?
 - a) Burning plastic
 - b) Recycling
 - c) Cutting trees
@@ -323,7 +331,7 @@
 
 ---
 
-### 32. Fossil fuels cause:
+### 33. Fossil fuels cause:
 - a) Clean air
 - b) Pollution
 - c) Rainfall
@@ -333,7 +341,7 @@
 
 ---
 
-### 33. Ecosystem balance depends on:
+### 34. Ecosystem balance depends on:
 - a) Only humans
 - b) Only animals
 - c) All components
@@ -343,7 +351,7 @@
 
 ---
 
-### 34. Environmental Science helps in:
+### 35. Environmental Science helps in:
 - a) Ignoring problems
 - b) Solving problems
 - c) Creating pollution
@@ -353,7 +361,9 @@
 
 ---
 
-### 35. A factory releasing smoke affects:
+## 🔍 Section C: Application & Analysis (36–50)
+
+### 36. A factory releasing smoke affects:
 - a) Hydrosphere
 - b) Lithosphere
 - c) Atmosphere
@@ -363,37 +373,295 @@
 
 ---
 
-## 📌 Additional Important MCQs
+### 37. Dumping waste in rivers causes:
+- a) Air pollution
+- b) Water pollution
+- c) Soil pollution
+- d) Noise pollution
 
-- **World Environment Day is celebrated on:**  
-  **✅ Answer:** 5 June
+**✅ Answer:** b) Water pollution
 
-- **The study of organisms and their environment is called:**  
-  **✅ Answer:** Ecology
+---
 
-- **The branch of science that studies weather and climate is:**  
-  **✅ Answer:** Meteorology
+### 38. Excess fertilizer use affects:
+- a) Air
+- b) Soil
+- c) Water
+- d) Noise
 
-- **Environmental Impact Assessment (EIA) is conducted to:**  
-  **✅ Answer:** Predict environmental consequences of development projects
+**✅ Answer:** b) Soil
 
-- **The Brundtland Commission defined:**  
-  **✅ Answer:** Sustainable Development
+---
 
-- **Using renewable energy sources is an example of:**  
-  **✅ Answer:** Sustainable Development
+### 39. Cutting forests leads to:
+- a) More biodiversity
+- b) Climate stability
+- c) Deforestation
+- d) Clean air
 
-- **Rapid industrialization often leads to:**  
-  **✅ Answer:** Environmental degradation
+**✅ Answer:** c) Deforestation
 
-- **Urbanization contributes to:**  
-  **✅ Answer:** Environmental pollution
+---
 
-- **The atmosphere protects Earth from:**  
-  **✅ Answer:** Harmful ultraviolet radiation
+### 40. Using solar energy is an example of:
+- a) Pollution
+- b) Non-renewable use
+- c) Sustainable practice
+- d) Industrial waste
 
-- **Demography helps Environmental Science understand:**  
-  **✅ Answer:** Population trends
+**✅ Answer:** c) Sustainable practice
+
+---
+
+### 41. If one sphere is disturbed:
+- a) Others remain unaffected
+- b) Only biosphere is affected
+- c) All spheres are affected
+- d) No change occurs
+
+**✅ Answer:** c) All spheres are affected
+
+---
+
+### 42. Which action conserves environment?
+- a) Overusing water
+- b) Recycling waste
+- c) Burning coal
+- d) Cutting trees
+
+**✅ Answer:** b) Recycling waste
+
+---
+
+### 43. Noise pollution affects:
+- a) Hearing
+- b) Soil
+- c) Water
+- d) Plants only
+
+**✅ Answer:** a) Hearing
+
+---
+
+### 44. Climate change results in:
+- a) Stable weather
+- b) Extreme weather
+- c) No change
+- d) Cooling only
+
+**✅ Answer:** b) Extreme weather
+
+---
+
+### 45. Urbanization leads to:
+- a) Forest growth
+- b) Pollution increase
+- c) Water conservation
+- d) Clean air
+
+**✅ Answer:** b) Pollution increase
+
+---
+
+### 46. Which is eco-friendly?
+- a) Plastic bags
+- b) Solar panels
+- c) Coal plants
+- d) Chemical dumping
+
+**✅ Answer:** b) Solar panels
+
+---
+
+### 47. Recycling helps to:
+- a) Increase waste
+- b) Reduce waste
+- c) Increase pollution
+- d) Destroy resources
+
+**✅ Answer:** b) Reduce waste
+
+---
+
+### 48. Industrial waste should be:
+- a) Dumped directly
+- b) Burned
+- c) Treated before disposal
+- d) Ignored
+
+**✅ Answer:** c) Treated before disposal
+
+---
+
+### 49. Sustainable living includes:
+- a) Resource wastage
+- b) Efficient use of resources
+- c) Pollution increase
+- d) Deforestation
+
+**✅ Answer:** b) Efficient use of resources
+
+---
+
+### 50. The best way to protect environment is:
+- a) Ignore problems
+- b) Increase industries
+- c) Awareness and action
+- d) Use more resources
+
+**✅ Answer:** c) Awareness and action
+
+---
+
+## ⭐ Section D: Advanced Concepts (51–65)
+
+### 51. The study of the relationship between organisms and their environment is called:
+- a) Geology
+- b) Ecology
+- c) Meteorology
+- d) Taxonomy
+
+**✅ Answer:** b) Ecology
+
+---
+
+### 52. A major objective of Environmental Science is:
+- a) Resource exploitation
+- b) Understanding environmental problems and their solutions
+- c) Increasing industrialization
+- d) Promoting pollution
+
+**✅ Answer:** b) Understanding environmental problems and their solutions
+
+---
+
+### 53. Which branch of science studies weather and climate?
+- a) Ecology
+- b) Geology
+- c) Meteorology
+- d) Zoology
+
+**✅ Answer:** c) Meteorology
+
+---
+
+### 54. The atmosphere protects Earth from:
+- a) Soil erosion
+- b) Harmful ultraviolet radiation
+- c) Water pollution
+- d) Noise pollution
+
+**✅ Answer:** b) Harmful ultraviolet radiation
+
+---
+
+### 55. Which sphere includes oceans, rivers, lakes, and groundwater?
+- a) Atmosphere
+- b) Biosphere
+- c) Hydrosphere
+- d) Lithosphere
+
+**✅ Answer:** c) Hydrosphere
+
+---
+
+### 56. The lithosphere mainly consists of:
+- a) Air and gases
+- b) Water bodies
+- c) Rocks and soil
+- d) Living organisms
+
+**✅ Answer:** c) Rocks and soil
+
+---
+
+### 57. Environmental education aims to:
+- a) Increase resource consumption
+- b) Develop awareness and responsibility toward the environment
+- c) Promote industrial waste disposal
+- d) Encourage deforestation
+
+**✅ Answer:** b) Develop awareness and responsibility toward the environment
+
+---
+
+### 58. World Environment Day is celebrated on:
+- a) March 21
+- b) April 22
+- c) June 5
+- d) July 11
+
+**✅ Answer:** c) June 5
+
+---
+
+### 59. Environmental Science is linked with:
+- a) Biology
+- b) Chemistry
+- c) Economics
+- d) All of the above
+
+**✅ Answer:** d) All of the above
+
+---
+
+### 60. Which field helps Environmental Science understand population trends?
+- a) Sociology
+- b) Demography
+- c) Geology
+- d) Astronomy
+
+**✅ Answer:** b) Demography
+
+---
+
+### 61. Rapid industrialization often leads to:
+- a) Reduced pollution
+- b) Increased environmental degradation
+- c) Improved biodiversity
+- d) Reduced energy consumption
+
+**✅ Answer:** b) Increased environmental degradation
+
+---
+
+### 62. Urbanization contributes to:
+- a) Increased green cover
+- b) Environmental pollution
+- c) Reduced waste generation
+- d) Improved ecosystem stability
+
+**✅ Answer:** b) Environmental pollution
+
+---
+
+### 63. Environmental Impact Assessment (EIA) is conducted to:
+- a) Increase industrial output
+- b) Predict environmental consequences of development projects
+- c) Promote deforestation
+- d) Increase mining activities
+
+**✅ Answer:** b) Predict environmental consequences of development projects
+
+---
+
+### 64. Which of the following is an example of sustainable development?
+- a) Overexploitation of resources
+- b) Using renewable energy sources
+- c) Cutting forests for urban expansion
+- d) Excessive groundwater extraction
+
+**✅ Answer:** b) Using renewable energy sources
+
+---
+
+### 65. The Brundtland Commission defined:
+- a) Biodiversity
+- b) Sustainable development
+- c) Ecosystem
+- d) Pollution
+
+**✅ Answer:** b) Sustainable development
 
 ---
 
@@ -401,17 +669,47 @@
 
 | Topic | Key Point |
 |---------|------------|
-| Ecology | Study of organism–environment relationships |
-| Biosphere | Region supporting life |
-| Hydrosphere | All water bodies |
-| Lithosphere | Land, rocks, and soil |
-| Atmosphere | Protective layer of gases |
+| Environmental Science | Study of interactions between humans and the environment |
+| Biotic Components | Living organisms such as plants, animals, and microorganisms |
+| Abiotic Components | Non-living factors such as air, water, soil, and sunlight |
+| Atmosphere | Layer of gases surrounding Earth |
+| Hydrosphere | All forms of water on Earth |
+| Lithosphere | Earth's crust consisting of rocks and soil |
+| Biosphere | Zone where life exists |
 | Sustainable Development | Meeting present needs without compromising future generations |
-| Renewable Resources | Replenishable resources |
-| Non-renewable Resources | Limited resources |
+| Renewable Resources | Resources that can be replenished naturally |
+| Non-renewable Resources | Resources that cannot be replaced quickly |
+| Greenhouse Gases | Major contributors to climate change |
+| Recycling | Process of converting waste into reusable materials |
+| Deforestation | Large-scale removal of forests |
 | EIA | Environmental Impact Assessment |
-| World Environment Day | 5 June |
+| Ecology | Study of relationships between organisms and their environment |
+| Meteorology | Study of weather and climate |
+| Brundtland Commission | Introduced the concept of sustainable development |
 
 ---
 
-⭐ **Tip:** Focus on definitions, environmental components, sustainable development, pollution, and environmental awareness. These are frequently asked in examinations.
+## 🎯 Most Important Exam Questions
+
+> Revise these questions thoroughly before your exam:
+
+**4, 8, 10, 11, 16, 18, 21, 23, 24, 25, 27, 28, 30, 32, 34, 36, 40, 41, 42, 44, 46, 48, 49, 50, 51, 53, 54, 57, 58, 60, 63, 64, 65**
+
+---
+
+## 📌 Key Dates & Facts
+
+- 🌍 **World Environment Day:** 5 June
+- 🌱 **Father of Ecology:** Ernst Haeckel
+- ♻️ **Sustainable Development:** Defined by the Brundtland Commission
+- 🌡️ **Climate Change:** Mainly caused by greenhouse gases
+- 🏭 **Industrialization:** Major source of environmental degradation
+- 📊 **EIA:** Evaluates environmental impacts before project implementation
+
+---
+
+⭐ **Unit 1 Complete – Introduction to Environmental Science**  
+📌 **Total MCQs:** 65  
+📌 **Recommended for:** University Exams, Viva Preparation, and Quick Revision  
+
+> *"The Earth is what we all have in common."* 🌍
