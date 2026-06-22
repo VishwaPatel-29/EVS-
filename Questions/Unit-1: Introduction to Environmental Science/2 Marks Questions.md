@@ -1,6 +1,6 @@
 # 🌍 Environmental Science (EVS) - Unit 1
 
-<div align="center">
+<div align="left">
 
 ### 📚 Introduction to Environmental Science
 ### 🎯 2 Marks Question Bank with Answers
